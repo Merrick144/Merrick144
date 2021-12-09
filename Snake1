@@ -1,0 +1,11 @@
+#This is a snake game
+
+#import all relevant packages
+
+#initialize the game by opening window and setting snake position
+
+def InitalizeGame():
+ 
+
+#input recgonition
+def 
