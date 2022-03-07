@@ -1,0 +1,7 @@
+def calculate():
+  annual_salay=float(input("What is your annual salary"))
+  portion_saved=float(input("What is the portion of you salary that you are saving?"))
+  total_cost=float(input("What is the cost of your dream home?"))
+  
+  current_savings=float(0)
+  
